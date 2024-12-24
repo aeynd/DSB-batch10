@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/48962520-a636-40f4-a505-05721dd67f86)# Data science Bootcamp 10
+# Data science Bootcamp 10
 My data science and analytics projects
 
 ## My personal projects
